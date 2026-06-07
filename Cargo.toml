@@ -1,0 +1,7 @@
+[package]
+name = "evolutionary-strategy"
+version = "0.1.0"
+description = "Evolution strategies for parameter optimization with self-adaptive step sizes, recombination, and comma/plus selection"
+repository = "https://github.com/SuperInstance/evolutionary-strategy"
+license = "MIT"
+edition = "2021"
